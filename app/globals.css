@@ -59,7 +59,7 @@
 
   /* glass-morphism */
   .glass {
-    @apply border border-solid border-[hsla(0, 0%, 100%, 0.2)] bg-gray-951 backdrop-blur-[10px] hover:border hover:border-solid hover:border-white;
+    @apply border border-solid border-[hsla(0,0%,100%,0.2)] bg-gray-951 backdrop-blur-[10px] hover:border hover:border-solid hover:border-white;
     -webkit-backdrop-filter: blur(10px);
   }
 
